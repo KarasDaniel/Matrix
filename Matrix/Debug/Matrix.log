@@ -1,0 +1,4 @@
+﻿  Matrix.cpp
+  Source.cpp
+  Создание кода...
+C:\Users\Дыня\source\repos\Matrix\Matrix\Source.cpp(6): error C4716: Matrix::add: должна возвращать значение
