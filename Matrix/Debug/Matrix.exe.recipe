@@ -2,7 +2,7 @@
 <Project>
   <ProjectOutputs>
     <ProjectOutput>
-      <FullPath>C:\Users\Дыня\source\repos\Matrix\Debug\Matrix.exe</FullPath>
+      <FullPath>C:\MyProject\Matrix\Debug\Matrix.exe</FullPath>
     </ProjectOutput>
   </ProjectOutputs>
   <ContentFiles />
